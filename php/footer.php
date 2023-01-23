@@ -1,4 +1,4 @@
-<div class="container container--footer">
+<!-- <div class="container container--footer">
   <footer class="content content--footer">
     <div class="group-column">
       <div class="column-33">
@@ -21,4 +21,17 @@
     </div>
     <p class="paragraph autor ">&copy; 2021 Ronny Chamba</p>
   </footer>
+
+</div> -->
+
+<div class="container-fluid mt-4 border" id="contacto" style="background-color: whitesmoke;">
+
+  <div class="row  text-center justify-content-center align-items-center p-3">
+    <div class="col">
+      <p class=" autor m-0 mb-2"><a href="https://www.linkedin.com/in/ronny-chamba-8273911b7/" target="_blank"> <i class="fa-brands fa-linkedin"></i> Linkedin</a> </p>
+      <p class=" autor"> <a href="https://github.com/RonnyChamba" target="_blank"> <i class="fa-brands fa-github"></i> GitHub</a> </p>
+      <p class=" autor">Ronny Chamba &copy; 2023</p>
+    </div>
+  
+  </div>
 </div>
