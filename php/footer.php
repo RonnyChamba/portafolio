@@ -30,6 +30,7 @@
     <div class="col">
       <p class=" autor m-0 mb-2"><a href="https://www.linkedin.com/in/ronny-chamba-8273911b7/" target="_blank"> <i class="fa-brands fa-linkedin"></i> Linkedin</a> </p>
       <p class=" autor"> <a href="https://github.com/RonnyChamba" target="_blank"> <i class="fa-brands fa-github"></i> GitHub</a> </p>
+      <p class=" autor"> <a href="https://codigoclass.blogspot.com/" target="_blank"><i class="fa-brands fa-blogger"></i> Blog</a> </p>
       <p class=" autor">Ronny Chamba &copy; 2023</p>
     </div>
   

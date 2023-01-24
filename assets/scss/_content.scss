@@ -113,30 +113,18 @@
   &__title {
     color: $colorTextTitle;
   }
-  .lenguaje {
-    font-size: 0.9rem;
-    font-weight: bold;
-    margin-right: 5px;
+}
+.content-card-img{
+  height: 200px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
 
-    &--html {
-      color: orangered;
-    }
-    &--php {
-      color: darkslateblue;
-    }
-    &--js {
-      color: orange;
-    }
-    &--css {
-      color: steelblue;
-    }
-    &--java {
-      color: peru;
-    }
-    &--mysql {
-      color: dodgerblue;
-    }
-  }
+.card__img {
+  display: block;
+  object-fit: cover;
+  // width: 100%;
+  margin: 0;
 }
 .fecha {
   font-weight: bold;
@@ -146,4 +134,63 @@
   .icon-calendar {
     margin-right: 10px;
   }
+}
+
+.lenguaje {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin-right: 5px;
+
+  &--html {
+    color: orangered;
+  }
+  &--php {
+    color: darkslateblue;
+  }
+  &--js {
+    color: orange;
+  }
+  &--css {
+    color: steelblue;
+  }
+  &--java {
+    color: peru;
+  }
+  &--mysql {
+    color: dodgerblue;
+  }
+  &--bootstrap {
+    color: darkslateblue;
+  } 
+  &--android{
+    color: green;
+  }
+  &--spring{
+    color: green;
+  }
+  &--angular{
+    color: red;
+  }
+}
+
+.modal__img {
+
+  // filter:sepia(25%);
+
+  position: relative;
+  &::after{
+    position: absolute;
+    contain: "dsdsdsdhusgfydstgtfdrd";
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    // z-index: 1800000000000;
+    background-color: red;
+  }
+}
+
+ .ul{
+  list-style: circle;
+  list-style-position: inside;
 }

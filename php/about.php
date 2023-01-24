@@ -2,9 +2,13 @@
 
     <h3>Sobre Mi</h3>
 
-    <p> Hola, mi nombre es Ronny Chamba desarrollador Java, un apasionado por las nuevas tecnologías.-
-        Durante el transcurso de mi carrera profesional he aprendido a desarrollar aplicaciones
-        FullStack con SpringBoot, Angular y base de datos. Le hago frente a lo que desconosco, pienso que es plus motivacional para seguir aprendiendo y creciendo profesionalmente. </p>
+    <p>
+        Hola, mi nombre es Ronny Chamba, Developer Java con conocimientos en desarrollo de software, base de datos y
+        lenguajes de programación. Durante el transcurso de mi carrera universitaria he aprendido a desarrollar
+        aplicaciones FullStack con SpringBoot y Angular. Mi objetivo principal es crecer profesionalmente, por ende busco
+        oportunidades que me permitan realizarla.
+    </p>
+
 
 
 </div>
