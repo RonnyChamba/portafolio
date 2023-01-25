@@ -20,20 +20,20 @@
   <div id="carouselExampleControls" class="carousel slide " data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="assets/img/0.jpg"   class="d-block w-100  carrousel__img" alt="...">
+        <img src="assets/img/banner/banner_0.jpg"   class="d-block w-100  carrousel__img" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="assets/img/1.jpg" class="d-block w-100 carrousel__img" alt="...">
+        <img src="assets/img/banner/banner_5.jpg" class="d-block w-100 carrousel__img" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="assets/img/2.jpg" class="d-block w-100 carrousel__img" alt="...">
+        <img src="assets/img/banner/banner_6.jpg" class="d-block w-100 carrousel__img" alt="...">
       </div>
 
       <div class="carousel-item">
-        <img src="assets/img/3.jpg" class="d-block w-100 carrousel__img" alt="...">
+        <img src="assets/img/banner/banner_7.jpg" class="d-block w-100 carrousel__img" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="assets/img/4.jpg"  class="d-block w-100 carrousel__img" alt="...">
+        <img src="assets/img/banner/banner_8.jpg"  class="d-block w-100 carrousel__img" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev d-none d-md-block" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
