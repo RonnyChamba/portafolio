@@ -147,7 +147,7 @@
   &--php {
     color: darkslateblue;
   }
-  &--js {
+  &--js  {
     color: orange;
   }
   &--css {
@@ -170,6 +170,12 @@
   }
   &--angular{
     color: red;
+  }
+  &--firebase{
+    color: orange;
+  }
+  &--typescript{
+    color: blue;
   }
 }
 

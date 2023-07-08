@@ -153,6 +153,12 @@ input[type=submit] {
 .lenguaje--angular {
   color: red;
 }
+.lenguaje--firebase {
+  color: orange;
+}
+.lenguaje--typescript {
+  color: blue;
+}
 
 .modal__img {
   position: relative;
